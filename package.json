@@ -1,0 +1,7 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "runtime to start a webapp",
+  "private": true,
+  "license": "MIT"
+}
